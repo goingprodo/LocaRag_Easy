@@ -1,0 +1,6 @@
+pymupdf
+faiss-cpu
+sentence-transformers
+requests
+gradio>=4.0.0
+numpy
