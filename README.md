@@ -14,7 +14,7 @@
 : https://lmstudio.ai/ (LM스튜디오)
 <p></p>
 : https://ollama.com/ (올라마)
-
+<p></p><p></p>
 
 # 실행시 주의할 점
 1. 다시 한번! 
@@ -22,12 +22,12 @@
 2. 그리고 로컬에서 모델명과 API를 불러올 수 있는 주소를 적어도 맞춰야 한다는건 기초입니다, 제발!
 ![image](https://github.com/user-attachments/assets/0998506d-337e-4b3a-a1ae-fb2a5281dc4f)
 
-
+<p></p><p></p>
 
 # 현재 추천드리는 한국어 로컬 모델 
 ![image](https://github.com/user-attachments/assets/bdfa7e5a-caaa-4baa-86c7-8649a318d919)
 
-
+<p></p><p></p>
 
 # LocaRag_Easy
 A RAG-based PDF analyzer that retrieves relevant chunks from documents and uses a local LLM to answer user questions through a Gradio GUI interface.
