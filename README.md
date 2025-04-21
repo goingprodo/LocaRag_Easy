@@ -5,8 +5,8 @@
 2. 파이썬 3.10버전을 설치합니다.
 : https://www.python.org/downloads/release/python-31011/
 
-3. "설치.BAT" 배치파일로 원클릭 설치하면 끝. (제발 오른쪽을 봐주세요)
-<p></p>
+3. "설치.BAT" 배치파일로 원클릭 설치하면 끝. (제발 오른쪽을 봐주세요)<p></p>
+
 ![image](https://github.com/user-attachments/assets/32b566a2-2947-430f-8dd2-6934e99953fd)
 
 4. 로컬 LLM 어플리케이션이랑 같이 쓰는 구성입니다. 즉, 올라마라든지 LM스튜디오를 반드시 설치해주시기 바랍니다.
