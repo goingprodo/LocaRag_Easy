@@ -19,13 +19,7 @@
 
 
 # 현재 추천드리는 한국어 로컬 모델 
-모델명 | 파라미터 수 | 주요 특징 | 라이선스
-GECKO-7B | 7B | 한국어-영어 이중언어 모델로, KMMLU에서 우수한 성능을 보임 | 
-Gukbap Qwen2.5 7B | 7B | 한국어 논리 및 언어 이해에서 GPT-4를 능가하는 성능을 보임 | 
-KoLlama2 7B | 7B | LLaMA2 기반으로 LoRA를 활용한 한국어 성능 향상 모델 | 
-LLaMA-Pro-Ko 8B | 8B | LLaMA2-7B에 한국어 전용 토크나이저를 추가하여 한국어 성능 강화 | 
-Llama 3.1 Korean 8B Instruct | 8B | LLaMA 3.1 기반으로 고품질 한국어 데이터셋을 활용한 지시어 튜닝 모델 | 
-DNA 1.0 8B Instruct | 8B | LLaMA 3.1 기반으로 한국어와 영어 모두에서 우수한 성능을 보이는 이중언어 모델 | 
+![image](https://github.com/user-attachments/assets/bdfa7e5a-caaa-4baa-86c7-8649a318d919)
 
 
 
