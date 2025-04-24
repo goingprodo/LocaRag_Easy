@@ -30,5 +30,9 @@
 
 <br><br>
 
+# 기능 설명
+1. 래그를 통한 단순 프롬작업
+2. OCR을 통한 텍스트 인식
+
 # LocaRag_Easy
 A RAG-based PDF analyzer that retrieves relevant chunks from documents and uses a local LLM to answer user questions through a Gradio GUI interface.
